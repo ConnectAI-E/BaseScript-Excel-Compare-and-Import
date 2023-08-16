@@ -1,16 +1,17 @@
-# Excel Compare and Import
+## Excel-Compare-and-Import [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/connectai-e/awesome-basescript)
 
-## Abstract
+> Excel 对比导入
 
-This is a Base extension for Feishu that compares local Excel files with base and imports the differences into the current Base.
-
-## Usage
+![image](https://github.com/ConnectAI-E/BaseScript-Excel-Compare-and-Import/assets/110169811/55f7152f-49f8-4feb-b6f8-26ae4fd8a41b)
 
 
-## Learn More
+### Getting Started
+1️⃣ clone deme
+```
+git clone https://github.com/ConnectAI-E/BaseScript-Excel-Compare-and-Import
+pnpm install
+pnpm dev
+```
+2️⃣ 复制 http://localhost:5173/ 到 多维表格 webview 地址
 
-You can learn more in the [Base Extension Development Guide](https://bytedance.feishu.cn/docx/VxhudDXbyo1V7jxAcTbctJQ5nvc) or [多维表格扩展脚本开发指南](https://bytedance.feishu.cn/docx/HazFdSHH9ofRGKx8424cwzLlnZc).
 
-## Install packages
-
-Install packages in Shell pane or search and add in Packages pane.
